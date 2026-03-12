@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datafile xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
+	<WiiTDB version="201812061554" games="6" />
+	<game name="Carrier Air Wing">
+		<id>37359A</id>
+		<locale lang="EN">
+			<title>Carrier Air Wing</title>
+			<synopsis>Carrier Air Wing / U.S. Navy is a horizontally-scrolling shoot-em-up for one or two players set in the 1990s, a decade of great change marked by growing friendships between old enemies and never before seen levels of co-operation between powerful nations of the world. However, in 1997, using new weapons designed in secrecy, the Middle Eastern country of 'Rabu' threatens to destroy this new and fragile peace. 
+
+Players chose to pilot any one of three different jet fighters and must battle their way through ten enemy-packed stages. Each fighter has a fuel bar which is full at the start of each stage but gradually decreases, additional fuel is lost each time the fighter takes damage from an enemy.</synopsis>
+			<genre>Shooting / Horizontal</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>F - 飞空之翼</title>
+			<synopsis>在本作诞生之前，卡普空原本是想制作一款《战区88》的续编作品，但由于未能取得相关版权，制作人只好修改计划，制作成内容独立的原创作品。
+《雌虎战机》沿袭了《战区88》的佣兵制系统，每一关消灭Boss后获得的金钱，可以用来购买和升级各种武器装备，还是可以用来购买加长生命的血槽。
+游戏剧情中，X国的兵器大体上以苏联兵器为主题，也使用了一部分诸如隐形战斗机、早期警戒机等美国兵器。</synopsis>
+			<genre>射击 / 横向</genre>
+		</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1990" month="10" day="30" />
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Forgotten Worlds">
+		<id>37363A</id>
+		<locale lang="EN">
+			<title>Forgotten Worlds</title>
+			<synopsis>The planet used to be beautiful, with gorgeous cities and gleaming countrysides. Until the Aliens attacked! With fire, bombs, and napalm they devastated the world! They made the planet so abominable that it became an outcast in the universe - the Forgotten World. Until you, the Nameless One, appear. You're a Super Warrior of incredible power and energy. You make it your business to reclaim the panet for its rightful owners - the Human Beings!</synopsis>
+			<genre>Shooting / Horizontal</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>S - 失落的世界</title>
+			<genre>射击 / 横向</genre>
+		</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1988" month="07" day="01" />
+		<rating type="NOTE" value="13">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Mega Man - The Power Battle">
+		<id>150815</id>
+		<locale lang="EN">
+			<title>Mega Man - The Power Battle</title>
+			<synopsis>Doctor Wily is up to no good yet again, this time returning with 18 revived and improved Robot Masters. Mega Man and Proto Man proceed to stop him, while Bass destroys the inferior robots to show Wily that he is the only robot he needs.</synopsis>
+			<genre>Fighting</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>L - 洛克人1 力量之战 CPS-2版</title>
+			<genre>格斗</genre>
+		</locale>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<date year="1995" month="" day="" />
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+</datafile>

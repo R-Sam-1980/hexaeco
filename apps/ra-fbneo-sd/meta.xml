@@ -2,13 +2,13 @@
 <app version="1">
   <name>RA-SS FBNeo</name>
   <author>SuperrSonic &amp; R-Sam</author>
-  <version>usb</version>
+  <version>sd</version>
   <release_date>2024-03-08 14:41</release_date>
   <short_description>Arcade Emulator</short_description>
   <long_description>- Mod By RunningSnakes.
 - Emulator for arcade games based on RA-SS Hexaeco.
 
-Wii Channel: usb:/wad/fbneo
+Wii Channel: sd:/wad/fbneo
 Website: https://github.com/R-Sam-1980/hexaeco</long_description>
   <no_ios_reload/>
   <ahb_access/>
