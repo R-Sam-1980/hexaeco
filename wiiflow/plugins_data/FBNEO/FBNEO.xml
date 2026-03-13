@@ -2,6 +2,31 @@
 <datafile xmlns:xs="http://www.w3.org/2001/XMLSchema"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="wiitdb.xsd">
 	<WiiTDB version="201812061554" games="6" />
+	<game name="Ms. Pac-man &amp; Galaga - 20th Anniversary Class of 1981 Reunion">
+		<id>39882A</id>
+		<locale lang="EN">
+			<title>Ms. Pac-man &amp; Galaga - 20th Anniversary Class of 1981 Reunion</title>
+			<synopsis>Classic Reunion! Class of '81
+
+Two of the Greatest Hits at One Great Price!</synopsis>
+			<genre>Compilation</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>C - 吃豆人和大蜜蜂 街机二合一</title>
+			<genre>合集</genre>
+		</locale>
+		<developer>General Computer</developer>
+		<publisher>Namco</publisher>
+		<date year="2000" month="" day="" />
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
 	<game name="Carrier Air Wing">
 		<id>37359A</id>
 		<locale lang="EN">
@@ -30,6 +55,133 @@ Players chose to pilot any one of three different jet fighters and must battle t
 			<control type="gamecube" required="false" />
 		</input>
 	</game>
+	<game name="Crusher Makochan">
+		<id>37319A</id>
+		<locale lang="EN">
+			<title>Crusher Makochan</title>
+			<synopsis>Crusher Makochan is a little known project of Takumi (or Takumi Corporation, best known for shooting games like Giga Wing, Mars Matrix, etc.) The player must destroy elements of the set to win medals. These medals make it possible to buy improvements that allow you to advance in the game.</synopsis>
+			<genre>Fighting</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>F - 粉碎者麻琴</title>
+			<genre>格斗</genre>
+		</locale>
+		<developer>Takumi</developer>
+		<publisher>Takumi</publisher>
+		<date year="1999" month="" day="" />
+		<rating type="NOTE" value="8">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="DoDonPachi">
+		<id>37320A</id>
+		<locale lang="EN">
+			<title>DoDonPachi</title>
+			<synopsis>A vertical scrolling shoot 'em up developed by the Japanese developer Cave.</synopsis>
+			<genre>Shooting / Vertical</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>N - 怒首领蜂</title>
+			<genre>射击 / 纵向</genre>
+		</locale>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<date year="1997" month="02" day="05" />
+		<rating type="NOTE" value="18">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+			<control type="coop" required="true" />
+		</input>
+	</game>
+	<game name="DonPachi">
+		<id>37327A</id>
+		<locale lang="EN">
+			<title>DonPachi</title>
+			<synopsis>An excellent vertically scrolling shoot'em up. The player assumes the role of a pilot who is sent by their squadron to fight their former allies until one side destroys the other, all of which is a part of a mission to strengthen the military power that controls each side. The player flies their selected fighter over 5 areas of various terrain, encountering a number of land, sea and air enemies. The player's ship has two modes of fire: by tapping the fire button, shots are fired; holding it down produces a concentrated vertical beam, but also reduces the ship's speed.
+
+The player can choose one of 3 aircraft at the start of the game, or upon continuing:
+Type A: A red (or yellow/orange, for player two) fighter, which fires a narrow stream of shots
+Type B: A green (or purple, for player two) helicopter, which fires its main guns forward, but has side guns that rotate in the direction of movement
+Type C: A blue (or black, for player two) fighter, which fires a wide, three-way spread of shots</synopsis>
+			<genre>Shooting / Vertical</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>S - 首领蜂</title>
+			<genre>射击 / 纵向</genre>
+		</locale>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<date year="1995" month="" day="" />
+		<rating type="NOTE" value="19">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="ESP Ra.De.">
+		<id>37332A</id>
+		<locale lang="EN">
+			<title>ESP Ra.De.</title>
+			<synopsis>ESP Ra.De. is a 1998 arcade game developed by Cave and published by Atlus. It is the first non-DonPachi game released by Cave. ESP Ra.De. received spiritual prequels in the form of the Espgaluda series; however, ESP Ra.De. is related to the Espgaluda series only by shared name and programmer Tsuneki Ikeda.
+
+By 2018, Tokyo has reached its maximum extension, therefore falling prey of common problems such as overpopulation and criminality. For this reason, an artificial island, aptly named Tokyo-2, is created just offshore, thanks to the support of the shady "Yaksa" corporation, led by elusive billionaire Garra Ono, whose ties with the modern incarnation of Yakuza have not been proven. Another source of instability is given by the rising number of humans exhibiting extrasensory perception, the so-called ESPers, who are constantly hunted down by the Japanese Police Force. Unknown to everyone, Garra herself is an extremely powerful ESPer, bent on using her influence over the government and military to replace every living being in the city with clones (disturbingly enough, these ESPers take the form of a 10 years old girl, named "Alice" and implied to originate from Garra's own DNA). Just as her plans begin to unfold, three children are forced to take action, each one for his or her own personal motives.
+
+The story takes place in December, during a 24-hour arc; each character has a specific stage which initiates his or her storyline, culminating with the final encounter.</synopsis>
+			<genre>Shooting</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>C - 长空超少年</title>
+			<genre>射击</genre>
+		</locale>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<date year="1998" month="" day="" />
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Fever SOS">
+		<id>37333A</id>
+		<locale lang="EN">
+			<title>Fever SOS</title>
+			<synopsis>Planet Meruto, a well known powerful military force in the Milky Way, sends out a Flagship under the command of Admiral Gratze, to attack the earth in order to gain one of it's most desired raw materials in the Galaxy: Water
+On Planet Fever, a small planet between Meruto and the Earth a base was planned to be installed, from there the attack vessels should start the invasion of Planet Earth. But before Admiral Gratze's plan was fullfilled, a mysterious wave appeared in space and confused the instruments of Meruto's fleet, and disrupted Admiral Gratze's love chat with his wife Irene Catharine. About this he got angry to such an extent that he forced his fleet to land on the source of this wave. So the wheel of fate began to spin...</synopsis>
+			<genre>Shooting</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>D - 弹铳</title>
+			<genre>射击</genre>
+		</locale>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<date year="1998" month="" day="" />
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+			<control type="coop" required="true" />
+		</input>
+	</game>
 	<game name="Forgotten Worlds">
 		<id>37363A</id>
 		<locale lang="EN">
@@ -53,6 +205,131 @@ Players chose to pilot any one of three different jet fighters and must battle t
 			<control type="gamecube" required="false" />
 		</input>
 	</game>
+	<game name="Gaia Crusaders">
+		<id>37336A</id>
+		<locale lang="EN">
+			<title>Gaia Crusaders</title>
+			<synopsis>Gaia Crusaders is a one or two-player side-scrolling beat-em-up in which players must battle Satan and his army of demons that have captured and taken over the world. Players select a character from a choice of five combatants known as 'Elemental Warriors'. Each of the characters possesses either Wind strength, Fire strength, or a mix of the two. 
+
+The game has the standard punch and kick attack moves as well as magical special moves. Combos can be strung together by switching quickly between kicking and punching. Players can also perform a 'super attack' by pressing the jump, punch and kick buttons simultaneously, this hits many enemies at once but costs the player character some health. It's also possible to raise a shield by pressing jump and kick simultaneously.
+
+At regular intervals coloured spheres appear, players can pick these up to gain a magical attack. The effects of the magic attack differs depending on the player character. If the magic matches the character's elemental attribute (fire, wind or both), they will gain a special, screen-clearing attack. Otherwise, they earn a powerful special attack. 
+
+In addition to the elemental spheres, there are two types of bombs that also appear, both of which detonate immediately once picked up. The first is an earthquake that hits all on-screen enemies and inflicts a large amount of damage. The second is a random bomb that sends out pillars of fire, hurting any enemies they come into contact with. There are also explosive boxes that can be kicked at enemies to keep them at bay. One last notable item is the sword, which functions much like weapons that can be found on the ground in many other beat 'em ups. A boss battle awaits players at the end of each stage.
+
+Gaia Crusaders is heavily influenced by another scrolling beat-em-up, Capcom's 1989 classic, Final Fight and also, to a lesser degree, by Sega's Golden Axe (the latter being the use of the Magical Attack acting as a smart bomb).</synopsis>
+			<genre>Beat 'em up</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>Z - 征战者</title>
+			<genre>动作</genre>
+		</locale>
+		<developer>Noise Factory</developer>
+		<publisher>Noise Factory</publisher>
+		<date year="1999" month="07" day="01" />
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+			<control type="coop" required="true" />
+		</input>
+	</game>
+	<game name="Hotdog Storm">
+		<id>37338A</id>
+		<locale lang="EN">
+			<title>Hotdog Storm</title>
+			<synopsis>Hot Dog Storm plays like any typical vertical scrolling shoot 'em up from the early-to-mid 90's. The player takes the role of the pilot of a futuristic space fighter, waging war against a horde of giant robots, tanks, mechs, and massive gunships. Similar to games like Strikers 1945 or Raiden, enemies often attack with extremely fast volleys of projectiles, in contrast to proto-bullet hell games such as DonPachi that started appearing the previous year.
+The game has five stages, each ending in a boss fight. Bosses have destructible parts that can be blown apart piece by piece for more points, and each boss also has a telegraphed super weapon that fires periodically and must be avoided. 
+The game never explains its unusual title.</synopsis>
+			<genre>Shooting / Vertical</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>X - 眩之风暴</title>
+			<genre>射击 / 纵向</genre>
+		</locale>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<date year="1996" month="" day="" />
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Koro Koro Quest">
+		<id>37342A</id>
+		<locale lang="EN">
+			<title>Koro Koro Quest</title>
+			<genre>Aventure</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>M - 命运杀阵</title>
+			<genre>棋牌 / 冒险</genre>
+		</locale>
+		<developer>Takumi</developer>
+		<publisher>Takumi</publisher>
+		<date year="1999" month="" day="" />
+		<rating type="NOTE" value="14">
+		</rating>
+		<input players="1">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Mazinger Z">
+		<id>37343A</id>
+		<locale lang="EN">
+			<title>Mazinger Z</title>
+			<synopsis>Vertical shoot'em up with 3 selectable characters: Mazinger Z, Great Mazinger and Grendizer.</synopsis>
+			<genre>Shooting / Vertical</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>T - 铁甲万能侠 Z</title>
+			<genre>射击 / 纵向</genre>
+		</locale>
+		<developer>Dynamic PL</developer>
+		<publisher>Dynamic PL</publisher>
+		<date year="1994" month="" day="" />
+		<rating type="NOTE" value="13">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Metamoqester">
+		<id>37344A</id>
+		<locale lang="EN">
+			<title>Metamoqester</title>
+			<synopsis>Metamoqester is a 2D arcade fighting game, similar in concept to Red Earth or Monster Maulers. One or two players (there is a co-op mode) fight against big monsters in deadly duels. There are three different characters to choose from. The game uses four buttons - Weak Attack, Medium Attack, Strong Attack, and Shoot/Throw Weapon.</synopsis>
+			<genre>Fighting</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>Y - 隐忍</title>
+			<genre>格斗</genre>
+		</locale>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<date year="1995" month="" day="" />
+		<rating type="NOTE" value="17">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
 	<game name="Mega Man - The Power Battle">
 		<id>150815</id>
 		<locale lang="EN">
@@ -68,6 +345,82 @@ Players chose to pilot any one of three different jet fighters and must battle t
 		<publisher>Capcom</publisher>
 		<date year="1995" month="" day="" />
 		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Pretty Soldier Sailor Moon">
+		<id>37352A</id>
+		<locale lang="EN">
+			<title>Pretty Soldier Sailor Moon</title>
+			<synopsis>The game is a side-scrolling "beat-'em-up" game, one or two players pick their desired Senshi and travel through various stages defeating enemies. Items are sometimes dropped by enemies that can range from items that restore health, give extra points, or crystals that allow the Senshi to perform special attacks. Up to five crystals can be collected per player to power up the Senshi's special attacks. During the most difficult moments in battle, Tuxedo Mask will appear and throw a rose, which is a bonus to pick up and depart.</synopsis>
+			<genre>Beat 'em up</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>M - 美少女战士</title>
+			<genre>动作</genre>
+		</locale>
+		<developer>Gazelle</developer>
+		<publisher>Gazelle</publisher>
+		<date year="1995" month="" day="" />
+		<rating type="NOTE" value="16">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+			<control type="coop" required="true" />
+		</input>
+	</game>
+	<game name="Thunder Heroes">
+		<id>37353A</id>
+		<locale lang="EN">
+			<title>Thunder Heroes</title>
+			<synopsis>Thunder Heroes (c) 2001 Primetec Investments.  - TECHNICAL -  CAVE 1st Generation hardware  Main CPU : 68000 (@ 16 Mhz) Sound Chips : YMZ280B (@ 16.9344 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4 =&gt; [A] Punch, [B] Kick, [C] Jump, [D] Special  </synopsis>
+			<genre>Beat 'em up</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>P - 霹雳英雄</title>
+			<genre>动作</genre>
+		</locale>
+		<developer>Primetek Investments</developer>
+		<publisher>Primetek Investments</publisher>
+		<date year="2001" month="" day="" />
+		<rating type="NOTE" value="15">
+		</rating>
+		<input players="2">
+			<control type="wiimote" required="true" />
+			<control type="nunchuk" required="false" />
+			<control type="classiccontroller" required="false" />
+			<control type="gamecube" required="false" />
+		</input>
+	</game>
+	<game name="Puzzle Uo Poko">
+		<id>37355A</id>
+		<locale lang="EN">
+			<title>Puzzle Uo Poko</title>
+			<synopsis>Uo Poko is a puzzle game for one or two players (co-operative). The aim is to clear the screen of coloured glass balls by dropping like-coloured balls down onto them. Connecting three or more like-coloured balls creates a chain reaction and causes them to disappear.
+
+Balls are launched into the play area via a joystick controlled 'pinball-plunger' and as in Pinball, the further the plunger is pulled back, the further the coloured ball will travel. Mastering the strength and distance required is essential in order to drop each ball accurately onto its target. To allow players to learn how to use the plunger, the first two stages feature a guide line which shows exactly where a ball will drop. From the third stage onwards, players must use their judgement alone.
+
+Bonus points are awarded if a stage is completed quickly enough. If too much time is taken, however, the bottom of the stage will start to rise, pushing the balls already in play towards the top of the screen. If the top of the screen is reached, the game is over.
+
+Uo Poko features thirty stages of play.</synopsis>
+			<genre>Puzzle</genre>
+		</locale>
+		<locale lang="ZHCN">
+			<title>X - 小猫钓鱼</title>
+			<genre>益智</genre>
+		</locale>
+		<developer>Cave</developer>
+		<publisher>Jaleco</publisher>
+		<date year="1998" month="" day="" />
+		<rating type="NOTE" value="17">
 		</rating>
 		<input players="2">
 			<control type="wiimote" required="true" />
